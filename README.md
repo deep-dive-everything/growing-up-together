@@ -3,7 +3,7 @@
 # 🌱 함께 자라기 - 애자일로 가는 길
 **📚 함께 자라기 북 스터디**
 
-| <img src="/assets/js-deep-dive-book.jpg" width="200px" /> |
+| <img src="/assets/growing-up-together.jpg" width="200px" /> |
 | ------------------------------------------------------ |
 
 ![STUDY_START](https://img.shields.io/badge/START-2025--01--05-blue)
