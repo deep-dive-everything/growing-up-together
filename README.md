@@ -41,7 +41,7 @@
 <tr>
 <td align="center">1/12(일)</td>
 <th align="left">9p~75p</th>
-<td><a href="">정리</a></td>
+<td><a href="https://github.com/deep-dive-everything/growing-up-together/tree/main/1%EC%A3%BC%EC%B0%A8">정리</a></td>
 <td>권현경</td>
 </tr>
 <tr>
