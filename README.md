@@ -50,7 +50,7 @@
 <tr>
 <td align="center">1/19(일)</td>
 <th align="left">76p~105p</th>
-<td><a href="">정리</a></td>
+<td><a href="https://github.com/deep-dive-everything/growing-up-together/tree/main/2%EC%A3%BC%EC%B0%A8">정리</a></td>
 <td>박다솜</td>
 </tr>
 <tr>
@@ -59,7 +59,7 @@
 <tr>
 <td align="center">1/26(일)</td>
 <th align="left">109p~189p</th>
-<td><a href="">정리</a></td>
+<td><a href="https://github.com/deep-dive-everything/growing-up-together/tree/main/3%EC%A3%BC%EC%B0%A8">정리</a></td>
 <td>고석영</td>
 </tr>
 <tr>
