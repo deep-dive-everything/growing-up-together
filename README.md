@@ -63,12 +63,12 @@
 <td>고석영</td>
 </tr>
 <tr>
-<td align="center" colspan="5">3주차</td>
+<td align="center" colspan="5">4주차</td>
 </tr>
 <tr>
 <td align="center">2/2(일)</td>
 <th align="left">193p~218p</th>
-<td><a href="">정리</a></td>
+<td><a href="https://github.com/deep-dive-everything/growing-up-together/tree/main/4%EC%A3%BC%EC%B0%A8">정리</a></td>
 <td>김해리</td>
 </tr>
 </tbody>
